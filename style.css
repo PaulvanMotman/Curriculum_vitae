@@ -60,7 +60,7 @@ nav, footer .page-footer {
 #header {
 	min-height: 500px;
 	background-color: #607D8B;
-	background-image: url('pexels-photo.jpg');
+	background-image: url('img/pexels-photo.jpg');
 	background-position: center;
 	background-size: cover;
 }
