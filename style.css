@@ -28,12 +28,6 @@ div img {
 	margin-bottom: 40px;
 }
 
-
-#cv .row{
-	height: 300px;
-	overflow-y:auto;
-}
-
 #title {
 	background-color: transparent;
 	height: 150px !important;
@@ -43,10 +37,6 @@ div img {
 #title p {
 	font-size: 100%;
 }
-
-
-/*// mentor stuff
-*/
 
 body {
 	display: flex;
@@ -105,6 +95,15 @@ footer.page-footer {
 	font-weight: 300;
 }
 
+.italic2 span {
+	font-size: smaller;
+	border-radius: 7%;
+	padding: 1px;
+}
+
+.blue2 {
+	background-color: #0D5D82;
+}
 
 
 
